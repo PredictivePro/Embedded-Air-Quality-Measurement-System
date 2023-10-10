@@ -14,10 +14,7 @@ This repository contains the code for an embedded Air Quality Index (AQI) measur
 3. Thingspeak for cloud data storage and visualization
 
 # Installation and Usage
-Clone this repository to your Raspberry Pi:
-
-bash
-git clone https://github.com/your-username/air-quality-measurement.git
+- Clone this repository to your Raspberry Pi:  git clone https://github.com/your-username/air-quality-measurement.git
 - Install the required Python libraries:
 - pip install thingspeak
 - pip install matplotlib
