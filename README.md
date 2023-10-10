@@ -41,6 +41,7 @@ git clone https://github.com/your-username/air-quality-measurement.git
 # Results
 This project effectively combines cloud-based data retrieval with local sensor measurements to provide a real-time assessment of air quality. Users can monitor air quality trends through graphical displays and access historical data via the cloud server. The user interface allows for easy navigation and provides essential information on air quality, temperature, and humidity.
 
-![Result graphs](Sample graphs.png)
+![Sample graphs](https://github.com/PredictivePro/Embedded-Air-Quality-Measurement-System/assets/127553275/e23a6f8d-3aee-4eee-b4d0-a6d5380d26b1)
+
 # Acknowledgments
 This project was developed as a collaborative effort and benefited from discussions and contributions from Syamraj Satheesh Kumar.
